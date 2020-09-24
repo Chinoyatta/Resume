@@ -1,5 +1,14 @@
 # 職務経歴書
 
+## 基本情報
+| key | value |  
+| :-- | :-- |
+| Name | 千野栄一(Eiichi Chino) |
+| Twitter | [@chinochino_17](https://twitter.com/chinochino_17) |
+| Qiita | [chinoyatta](https://qiita.com/chinoyatta ) |
+| Speaker Deck | [chino](https://speakerdeck.com/abcn ) |
+
+
 ## 概要
 新卒入社した会社では1年9ヶ月主にモバイルアプリ・フロントエンドエンジニアとして、
 新規アプリ開発とSIを経験しました。
